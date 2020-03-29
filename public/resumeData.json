@@ -1,11 +1,11 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"By Japão Sport & Eventos",
     "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "description":"A By Japão Sport & Eventos, empresa especializada na organização de eventos esportivos, vem há mais de dez anos, prestando um serviços de excelência, em diversas corridas de rua, ciclismo, triatlhon, spinning, indoor, eventos corporativos dentre outros.",
+    "image":"japao-logo.PNG",
+    "bio":"A By Japão Sport & Eventos, empresa especializada na organização de eventos esportivos, vem há mais de dez anos, prestando um serviços de excelência, em diversas corridas de rua, ciclismo, triatlhon, spinning, indoor, eventos corporativos dentre outros.\n Sua liderança no mercado mineiro se justifica. Oferecendo um atendimento diferenciado, conta com uma equipe de profissionais altamente capacitada para organização, promoção e realização de eventos de todos os portes, além da formatação do projeto para captação de patrocinadores.",
+    "contactmessage":"Fale conosco!",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address":{
@@ -14,43 +14,21 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/japao.carvalho",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name":"youtube",
+        "url":"https://www.youtube.com/user/canaldojapao/featured",
+        "className":"fa fa-youtube"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/japaocarvalho",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -118,34 +96,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Maratona das Gerais 2020",
+        "category":"Maratona das Gerais 2020",
+        "image":"banner-maratona.jpg",
+        "url":"https://www.sympla.com.br/maratona-e-meia-maratona-das-gerais-e-corrida-da-familia__625687"
       }
     ]
   },
