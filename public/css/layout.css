@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #D72828; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #D72828; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -194,7 +194,7 @@ ul#nav li.current a { color: #D72828; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #D72828; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -229,7 +229,21 @@ ul#nav li.current a { color: #D72828; }
    margin-right: 15px;
    font-size: 20px;
 }
-
+#about img {height: 50%; width: 50%;}
+/* header social links */
+#about .social {
+   margin: 24px 0;
+   padding: 0;
+   font-size: 30px;
+   text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
+}
+#about .social li {
+   display: inline-block;
+   margin: 0 15px;
+   padding: 0;
+}
+#about .social li a { color: #fff; }
+#about .social li a:hover { color: #D72828; }
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -242,7 +256,7 @@ ul#nav li.current a { color: #D72828; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #D72828; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -251,7 +265,7 @@ ul#nav li.current a { color: #D72828; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #D72828;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -803,7 +817,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #D72828; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -864,7 +878,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #D72828;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -883,7 +897,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #D72828;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -895,7 +909,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #D72828; }
 
 #message-warning i,
 #message-success i {
