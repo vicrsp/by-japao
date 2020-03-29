@@ -4,7 +4,7 @@
     "occupation":"(Your Occupation Here)",
     "description":"A By Japão Sport & Eventos, empresa especializada na organização de eventos esportivos, vem há mais de dez anos, prestando um serviços de excelência, em diversas corridas de rua, ciclismo, triatlhon, spinning, indoor, eventos corporativos dentre outros.",
     "image":"japao-logo.PNG",
-    "bio":"A By Japão Sport & Eventos, empresa especializada na organização de eventos esportivos, vem há mais de dez anos, prestando um serviços de excelência, em diversas corridas de rua, ciclismo, triatlhon, spinning, indoor, eventos corporativos dentre outros.\n Sua liderança no mercado mineiro se justifica. Oferecendo um atendimento diferenciado, conta com uma equipe de profissionais altamente capacitada para organização, promoção e realização de eventos de todos os portes, além da formatação do projeto para captação de patrocinadores.",
+    "bio":"A By Japao Sports &amp; Eventos está sempre focada em prover soluções Criativas e Eficientes com abordagem Esportiva Personalizada, trazendo o cliente para junto de seu público alvo, com estratégias que interagem com este público de forma eficiente e objetiva. Experiência e Versatilidade na realização e execução dos mais diversos projetos e eventos.",
     "contactmessage":"Fale conosco!",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -106,12 +106,24 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "image":"040.jpg",
+        "name":"Cervejaria 040",
+        "link":"http://www.cervejaria040.com.br/"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "image":"arelamg3.jpg",
+        "name":"Cervejaria 040",
+        "link":"http://www.cervejaria040.com.br/"
+      },
+      {
+        "image":"Signaltec.jpg",
+        "name":"Cervejaria 040",
+        "link":"http://www.cervejaria040.com.br/"
+      },
+      {
+        "image":"bionutra.png",
+        "name":"Cervejaria 040",
+        "link":"http://www.cervejaria040.com.br/"
       }
     ]
   }
