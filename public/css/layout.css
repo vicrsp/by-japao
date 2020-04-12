@@ -59,7 +59,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #D72828;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
@@ -694,6 +694,10 @@ call-to-action .button {
 
 #testimonials a img {height: auto; width: auto;}
 
+#testimonials .carousel-image { max-height: 400px; display: table-cell; vertical-align: middle; text-align: center;}
+
+#testimonials .carousel-image img {width: auto; height: 250px; }
+
 /*	Blockquotes */
 #testimonials blockquote {
    margin: 0 0px 30px 0px;
@@ -816,6 +820,21 @@ call-to-action .button {
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
+
+#contact .social {
+   margin: 24px 0;
+   padding: 0;
+   font-size: 30px;
+   text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
+}
+
+#contact .social li {
+   display: inline-block;
+   margin: 0 15px;
+   padding: 0;
+}
+#contact .social li a { color: #fff; }
+#contact .social li a:hover { color: #D72828; }
 
 #contact a, #contact a:visited  { color: #D72828; }
 #contact a:hover, #contact a:focus { color: #fff; }

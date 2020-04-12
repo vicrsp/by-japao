@@ -112,18 +112,63 @@
       },
       {
         "image":"arelamg3.jpg",
-        "name":"Cervejaria 040",
-        "link":"http://www.cervejaria040.com.br/"
+        "name":"Arela MG ONG",
+        "link":"http://www.arelamg.org.br/"
       },
       {
         "image":"Signaltec.jpg",
-        "name":"Cervejaria 040",
-        "link":"http://www.cervejaria040.com.br/"
+        "name":"Signaltec",
+        "link":"https://www.linkedin.com/company/signaltec-sinalizacao-viaria/about/"
       },
       {
         "image":"bionutra.png",
-        "name":"Cervejaria 040",
-        "link":"http://www.cervejaria040.com.br/"
+        "name":"Bionutra",
+        "link":"https://www.bionutra.com.br/"
+      },
+      {
+        "image":"caixa.png",
+        "name":"Caixa",
+        "link":"https://www.caixa.com.br/"
+      },
+      {
+        "image":"tres-coracoes.png",
+        "name":"Três Corações",
+        "link":"http://www.cafe3coracoes.com.br/"
+      },
+      {
+        "image":"uai.png",
+        "name":"UAI",
+        "link":"https://www.uai.com.br/"
+      },
+      {
+        "image":"fchoose.png",
+        "name":"fchoose",
+        "link":"https://www.instagram.com/fchooseoficial/"
+      },
+      {
+        "image":"decathlon.png",
+        "name":"Decathlon",
+        "link":"https://www.decathlon.com.br/"
+      },
+      {
+        "image":"unibh.png",
+        "name":"UNI-BH",
+        "link":"https://www.unibh.br/"
+      },
+      {
+        "image":"verdeminas.jpg",
+        "name":"Verde Minas",
+        "link":"https://www.verdeminas.com.br/"
+      },
+      {
+        "image":"pinati.jpg",
+        "name":"Pinati",
+        "link":"https://www.pinati.com.br/"
+      },
+      {
+        "image":"fma.png",
+        "name":"FMA",
+        "link":"https://www.atletismomg.org.br/"
       }
     ]
   }

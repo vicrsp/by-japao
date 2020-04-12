@@ -12,6 +12,9 @@ class Contact extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
+      var networks= this.props.data.social.map(function(network){
+         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+       });
     }
 
     return (
@@ -77,14 +80,17 @@ class Contact extends Component {
 
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
+                  <ul className="social">
+                     {networks}
+                  </ul>
 
-					   <h4>Address and Phone</h4>
+					   {/* <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
-					   </p>
+					   </p> */}
 				   </div>
             </aside>
       </div>

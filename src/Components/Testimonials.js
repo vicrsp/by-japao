@@ -30,7 +30,7 @@ class Testimonials extends Component {
                            dots={false}
                            showSides={true}
                            sidesOpacity={.5}
-                           sideSize={.2}
+                           sideSize={.1}
                            slidesToScroll={2}
                            slidesToShow={2}
                            scrollOnDevice={true}
@@ -41,9 +41,9 @@ class Testimonials extends Component {
                            
                            this.props.data.testimonials.map((partner) => {
                               var partnerImage = 'images/partners/'+partner.image;
-                              return  (<div key={partner.name} >
+                              return  (<div key={partner.name} className="carousel-image" >
                                        <a href={partner.link} title={partner.name}>
-                                          <img alt={partner.name} src={partnerImage} />
+                                          <img alt={partner.name} src={partnerImage}/>
                                        </a>
                                     </div>);
                            })}
