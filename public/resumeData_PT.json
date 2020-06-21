@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name":"By Japão Sport & Eventos",
+    "occupation":"(Your Occupation Here)",
+    "description":"A By Japão Sport &amp; Eventos, empresa especializada na organização de eventos esportivos, vem há mais de dez anos, prestando um serviços de excelência, em diversas corridas de rua, ciclismo, triatlhon, spinning, indoor, eventos corporativos dentre outros.",
+    "image":"japao-logo.PNG",
+    "bio":"A By Japao Sports & Eventos está sempre focada em prover soluções Criativas e Eficientes com abordagem Esportiva Personalizada, trazendo o cliente para junto de seu público alvo, com estratégias que interagem com este público de forma eficiente e objetiva. Experiência e Versatilidade na realização e execução dos mais diversos projetos e eventos.",
+    "contactmessage":"Fale conosco!",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/japao.carvalho",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/user/canaldojapao/featured",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/japaocarvalho",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Maratona das Gerais 2020",
+        "category":"Maratona das Gerais 2020",
+        "image":"banner-maratona.jpg",
+        "url":"https://www.sympla.com.br/maratona-e-meia-maratona-das-gerais-e-corrida-da-familia__625687"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "image":"040.jpg",
+        "name":"Cervejaria 040",
+        "link":"http://www.cervejaria040.com.br/"
+      },
+      {
+        "image":"arelamg3.jpg",
+        "name":"Arela MG ONG",
+        "link":"http://www.arelamg.org.br/"
+      },
+      {
+        "image":"Signaltec.jpg",
+        "name":"Signaltec",
+        "link":"https://www.linkedin.com/company/signaltec-sinalizacao-viaria/about/"
+      },
+      {
+        "image":"bionutra.png",
+        "name":"Bionutra",
+        "link":"https://www.bionutra.com.br/"
+      },
+      {
+        "image":"caixa.png",
+        "name":"Caixa",
+        "link":"https://www.caixa.com.br/"
+      },
+      {
+        "image":"tres-coracoes.png",
+        "name":"Três Corações",
+        "link":"http://www.cafe3coracoes.com.br/"
+      },
+      {
+        "image":"uai.png",
+        "name":"UAI",
+        "link":"https://www.uai.com.br/"
+      },
+      {
+        "image":"fchoose.png",
+        "name":"fchoose",
+        "link":"https://www.instagram.com/fchooseoficial/"
+      },
+      {
+        "image":"decathlon.png",
+        "name":"Decathlon",
+        "link":"https://www.decathlon.com.br/"
+      },
+      {
+        "image":"unibh.png",
+        "name":"UNI-BH",
+        "link":"https://www.unibh.br/"
+      },
+      {
+        "image":"verdeminas.jpg",
+        "name":"Verde Minas",
+        "link":"https://www.verdeminas.com.br/"
+      },
+      {
+        "image":"pinati.jpg",
+        "name":"Pinati",
+        "link":"https://www.pinati.com.br/"
+      },
+      {
+        "image":"fma.png",
+        "name":"FMA",
+        "link":"https://www.atletismomg.org.br/"
+      }
+    ]
+  }
+}

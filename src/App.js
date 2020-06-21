@@ -16,7 +16,8 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
+      language: navigator.language.slice(0, 2)
     };
 
     ReactGA.initialize('UA-110570651-1');
@@ -25,8 +26,9 @@ class App extends Component {
   }
 
   getResumeData(){
+    const resumeUrl = this.state.language === 'en' ? '/resumeData_EN.json' : '/resumeData_PT.json'
     $.ajax({
-      url:'/resumeData.json',
+      url: resumeUrl,
       dataType:'json',
       cache: false,
       success: function(data){

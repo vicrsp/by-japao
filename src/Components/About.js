@@ -37,7 +37,7 @@ class About extends Component {
                   </ul>
                </div>
                <div className="columns download">
-                  <img src='images/trijapas_limpo.png'></img>
+                  <img src='images/trijapas_limpo_reduzido.png'></img>
                </div>
             </div>
          </div>
