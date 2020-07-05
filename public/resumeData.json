@@ -29,6 +29,11 @@
         "name":"instagram",
         "url":"http://instagram.com/japaocarvalho",
         "className":"fa fa-instagram"
+      },
+      {
+        "name":"mail",
+        "url":"mailto:japaocoach@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
